@@ -24,7 +24,8 @@ const pollSchema = new mongoose.Schema({
   totalVotes: {
     type: Number,
     default: 0
-  }
+  },
+  userIPs: [String] // To prevent duplicate votes from same IP
 });
 
 module.exports = mongoose.model('Poll', pollSchema);
