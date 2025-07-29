@@ -33,3 +33,10 @@ A full-stack MERN application for creating and voting on polls with real-time re
 - MongoDB (local or Atlas)
 - Git
 
+### Installation
+
+1. Clone the repo:
+```bash
+git clone https://github.com/kanaimandal2002/poll-app.git
+cd poll-app
+
