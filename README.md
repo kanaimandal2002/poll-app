@@ -71,12 +71,13 @@ REACT_APP_API_URL=http://localhost:5000
 ```
 4. Start the development servers:
 
-bash
 # In one terminal (backend)
+```bash
 cd server
 npm run dev
-
+```
 # In another terminal (frontend)
+```bash
 cd client
 npm start
 
