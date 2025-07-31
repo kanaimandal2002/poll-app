@@ -68,4 +68,15 @@ Add the following to your .env file:
 
 ```bash
 REACT_APP_API_URL=http://localhost:5000
+```
+4. Start the development servers:
+
+bash
+# In one terminal (backend)
+cd server
+npm run dev
+
+# In another terminal (frontend)
+cd client
+npm start
 
