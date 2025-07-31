@@ -80,4 +80,6 @@ npm run dev
 ```bash
 cd client
 npm start
+```
+The app should now be running at http://localhost:3000
 
