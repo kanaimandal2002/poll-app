@@ -9,7 +9,6 @@ A full-stack MERN application for creating and voting on polls with real-time re
 - 📊 Real-time results visualization
 - 📱 Responsive design for all devices
 - 🔒 Simple IP-based duplicate vote prevention
-- 📈 Interactive charts to display results
 
 ## 🛠️ Tech Stack
 
